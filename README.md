@@ -1,21 +1,120 @@
-# 💫 About Me:
-## 🚀 About Me<br><br><img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/><br><br><br><br>💻 Passionate **Full Stack Developer** focused on building scalable, user-friendly web applications.<br><br>🤖 Exploring **Artificial Intelligence, Generative AI, Agentic AI, LangGraph, and LLM-powered systems**.<br><br>🚀 I enjoy transforming ideas into real-world projects that combine intelligent automation with modern UI/UX.<br><br>🌱 **Currently Learning**<br>- Agentic AI & LangGraph<br>- Next.js & TypeScript<br>- Cloud Technologies<br>- System Design<br><br>💡 **Interests**<br>- Artificial Intelligence<br>- Full Stack Development<br>- Open Source<br>- UI/UX Design<br>- Automation<br><br>🎯 **Current Goal**<br>Build impactful AI-powered products and contribute to innovative software solutions.<br><br>📍 **Location:** Karnataka, India<br><br>⚡ **Fun Fact:** I enjoy turning complex AI ideas into simple, interactive applications.
+# <p align="center">⚡ Hi, I'm Karthik S Kulal! ⚡</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Generative+AI+Enthusiast;Full-Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_s_kulal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthik-s-kulal-3b65273a6/) [![![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulalkarthik013@gmail.com) 
-
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kulalkarthik013-wq&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=kulalkarthik013-wq&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kulalkarthik013-wq&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kulalkarthik013-wq&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthik-s-kulal-3b65273a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kulalkarthik013@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://karthikskulalportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kulalkarthik013-wq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a highly motivated *Artificial Intelligence & Machine Learning Graduate* with hands-on experience building computer-vision, generative-AI, workflow-automation, and modern full-stack web applications. I recently completed an intensive *AI Fellowship* focused on Large Language Models (LLMs) and applied generative AI. 
+
+I love turning complex data into actionable ML models and building intuitive, production-ready web interfaces to deliver comprehensive, end-to-end user experiences.
+
+* 🔭 *Current Goal: Seeking an entry-level **AI/ML Engineer* role to build practical, scalable AI solutions.
+* 🧠 *Deepening Knowledge*: Advanced LLM fine-tuning, RAG pipelines, and cloud-native AI deployments.
+* 💬 *Ask Me About*: Computer Vision, LLMs, React/Next.js integration, and prompt engineering.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+</p>
+
+#### *🤖 Artificial Intelligence & Machine Learning*
+- *Core ML/DL*: Machine Learning, Computer Vision, MediaPipe, OpenCV, YOLOv8
+- *Generative AI*: Large Language Models (LLMs), Applied GenAI, Prompt Engineering, workflow-automation
+
+#### *🌐 Web & Backend Development*
+- *Frontend*: HTML5, CSS3, React.js, Next.js 15, Tailwind CSS, Framer Motion, Bootstrap 5, Shadcn/ui
+- *Backend & Database*: Node.js, Express, Django, PostgreSQL, SQLite, Prisma ORM
+- *Cloud & Deployment*: Vercel, Cloudinary, AWS Application Migration Services, Microsoft Azure
+
+#### *⚙️ Tools & Platforms*
+- *Productivity*: Git, GitHub, n8n (Workflow Automation), Excel, PowerPoint, Word, Canva, Notion AI
+
+---
+
+### 🚀 Highlighted Projects
+
+#### 💻 *[Pair Coder](https://github.com/kulalkarthik013-wq) — AI-Powered Collaborative Coding & Interview Prep*
+> Next.js 15, TypeScript, Tailwind CSS, Shadcn UI, Socket.IO, PostgreSQL, Prisma, Cloudinary, Vercel
+- Developed a *full-stack real-time collaborative coding* platform designed for technical interview prep.
+- Implemented *live multi-user code synchronization* using *Socket.IO* backed by Next.js API routes / Express server.
+- Built an interactive developer dashboard complete with smooth *Framer Motion* animations.
+- Orchestrated database modeling with *PostgreSQL* and *Prisma ORM, using **Cloudinary* for scalable media storage.
+
+#### 🏥 *Multi-Disease Prediction Web Application*
+> Python, Django, Bootstrap 5, SQLite, Scikit-learn
+- Engineered a *predictive healthcare application* leveraging machine learning models to analyze health risks and estimate disease probabilities.
+- Applied advanced *data preprocessing* and model tuning to maximize classification accuracy.
+- Built an interactive dashboard where patients/clinicians receive clear risk predictions accompanied by *intuitive visualizations*.
+
+#### 🖐️ *AI Hand Gesture Controller*
+> Python, OpenCV, MediaPipe
+- Designed a real-time *hand-gesture recognition interface* mapping hand landmarks to core operating system commands.
+- Configured dynamic *detection thresholds* to reduce false positives, resulting in robust and seamless hand-gesture system controls.
+
+#### 🩸 *Blood Donation Management System*
+> HTML, CSS, JavaScript
+- Developed a responsive web app focused on connecting donors with seekers using registration management and fast blood-group search.
+
+#### 🏋️ *Gym Expert — Fitness Web App*
+> React.js, CSS
+- Built a modern, clean workout exploration web app showcasing target training exercises and step-by-step guides.
+
+---
+
+### 💼 Experience
+
+📅 *AI Fellowship Intern* @ LearnersByte & ExpertPedia Community (Feb 2026 – Apr 2026)
+- *Bharat Unnati NEAT 6.0 AI Fellowship*: Completed structured training focusing on Generative AI, Large Language Models (LLMs), and productivity-boosting AI workflows.
+- Designed and built collaborative *AI-based learning exercises*.
+- Applied cutting-edge *prompt-engineering methodologies* to address actual business use cases.
+
+---
+
+### 🎓 Education
+
+🎓 *Bachelor of Engineering in Artificial Intelligence & Machine Learning*
+Karavali Institute of Technology, Mangalore (VTU) | Graduated: 2026
+- *CGPA: **8.22*
+
+---
+
+### 📜 Certifications
+
+- 🏅 *AI Fellowship* – Bharat Unnati NEAT 6.0
+- 🏅 *Privacy & Security in Online Social Media* (Elite Grade) – NPTEL / IIT Kharagpur (2025)
+- 🏅 *Introduction to the Basics of Azure Services* – Microsoft Azure
+- 🏅 *Application Migration Services Certificate* – AWS
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kulalkarthik013-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karthik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulalkarthik013-wq&theme=tokyonight&hide_border=true" alt="Karthik's Streak Stats" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 📧 Email: [kulalkarthik013@gmail.com](mailto:kulalkarthik013@gmail.com)
+- 💼 LinkedIn: [Karthik S Kulal](https://www.linkedin.com/in/karthik-s-kulal-3b65273a6/)
+- 🌐 Portfolio: [karthikskulalportfolio.netlify.app](https://karthikskulalportfolio.netlify.app/)
