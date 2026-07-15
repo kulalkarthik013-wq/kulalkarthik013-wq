@@ -104,14 +104,22 @@ Karavali Institute of Technology, Mangalore (VTU) | Graduated: 2026
 
 ---
 
-### 📊 GitHub Activity & Stats
+
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulalkarthik013-wq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karthik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulalkarthik013-wq&theme=tokyonight&hide_border=true" alt="Karthik's Streak Stats" width="48%" />
+ 
+  <img width="49%" src="https://streak-stats.demolab.com?user=kulalkarthik013-wq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kulalkarthik013-wq&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+
 
 ### 🤝 Let's Connect!
 
